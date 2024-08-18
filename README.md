@@ -4,7 +4,7 @@
 <div align="center">
     <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
-
+<br>
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=taufiqjaslan&label=Profile%20views&color=0e75b6&style=flat" alt="taufiqjaslan" />
     <img src="https://img.shields.io/github/followers/taufiqjaslan?label=Followers" alt="followers-count" />
