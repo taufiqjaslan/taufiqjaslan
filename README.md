@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **muhd.taufiq.jaslan@gmail.com**
 
-<br><br>
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="linkedin.com/in/taufiqjaslan" target="_blank">
@@ -24,7 +23,6 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqjaslan&show_icons=true&locale=en&layout=compact" alt="taufiqjaslan" /></p>
 <p align="left">
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-3.svg" alt="laravel" width="40" height="40" /> </a>
@@ -46,6 +44,26 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taufiqjaslan" alt="taufiqjaslan" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=taufiqjaslan&show_icons=true&locale=en" alt="taufiqjaslan" /></p> <br>
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=taufiqjaslan&theme=highcontrast"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufiqjaslan&hide=html&layout=compact&theme=merko"
+        alt="Top Languages"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=taufiqjaslan&theme=tokyonight"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taufiqjaslan&" alt="taufiqjaslan" /></p>
