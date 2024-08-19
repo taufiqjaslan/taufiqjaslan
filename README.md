@@ -106,10 +106,6 @@
 </table>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=taufiqjaslan&theme=github" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
  <img src="https://raw.githubusercontent.com/taufiqjaslan/taufiqjaslan/output/snake.svg" alt="Snake animation" />
 </div>
 
