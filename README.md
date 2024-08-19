@@ -110,6 +110,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=taufiqjaslan&theme=github" alt="GitHub Activity Graph" />
+ <img src="https://raw.githubusercontent.com/taufiqjaslan/taufiqjaslan/output/snake.svg" alt="Snake animation" />
 </div>
 
