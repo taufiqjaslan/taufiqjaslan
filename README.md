@@ -109,5 +109,3 @@
  <img src="https://raw.githubusercontent.com/taufiqjaslan/taufiqjaslan/output/snake.svg" alt="Snake animation" />
 </div>
 
-//test
-
