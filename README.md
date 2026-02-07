@@ -17,7 +17,7 @@
 ## 🚀 About Me
 I am a **Software Developer** based in Malaysia with over 2 years of experience building high-performance systems. I specialize in the **LAMP Stack**, specifically crafting scalable **Laravel** applications and robust **RESTful APIs**.
 
-- 🔭 I’m currently working on **Optimizing Enterprise Backend Architectures**
+- 🔭 I’m currently working on **DSMR Group Pte Ltd**
 - 👨‍💻 My portfolio lives here: [taufiqjaslan.github.io/portfolio/](https://taufiqjaslan.github.io/portfolio/)
 - ⚡ **Fun Fact:** I once improved a system's response time by 50% through database optimization!
 - 📫 Reach me at: **muhd.taufiq.jaslan@gmail.com**
