@@ -19,7 +19,6 @@ I am a **Software Developer** based in Malaysia with over 2 years of experience 
 
 - 🔭 I’m currently working on **DSMR Group Pte Ltd**
 - 👨‍💻 My portfolio lives here: <a href="https://taufiqjaslan.github.io/portfolio/" target="_blank">taufiqjaslan.github.io/portfolio/</a>
-- ⚡ **Fun Fact:** I once improved a system's response time by 50% through database optimization!
 - 📫 Reach me at: **muhd.taufiq.jaslan@gmail.com**
 
 ---
